@@ -1,0 +1,14 @@
+{
+  "id": "phamthng/medthink-phase-1-faithful-reproduction",
+  "title": "MedThink Phase 1 Faithful Reproduction",
+  "code_file": "medthink_phase1_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

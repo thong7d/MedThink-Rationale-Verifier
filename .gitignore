@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Datasets & Model Weights
+data/
+Medthink_Dataset/
+*.pth
+*.pt
+*.bin
+*.h5
+*.safetensors
+*.tar.gz
+*.zip
+
+# Kaggle / Colab Outputs & Checkpoints
+kaggle_outputs/
+kaggle_outputs_*/
+kaggle_phase1_*/
+kaggle_pull/
+phase2_outputs/
+eda_outputs/
+
+# Logs & Temporary files
+*.log
+scratch/
+test_repro_output*.log
+phamthng_v1_error.log
+kaggle_download.log
+kaggle_v5_execution.log
+
+# Private tokens & Connection links
+colab_connection_link.txt
+colab_res.json
+colab_tools.json
+kaggle_commands.txt
+kaggle.json
+
+# External upstream repository
+repo/
